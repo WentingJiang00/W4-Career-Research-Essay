@@ -1,0 +1,83 @@
+---
+title: "Career Research in Omnichannel Retailing and E-Commerce Essay"
+author: "Wenting Jiang"
+date: June 26,2026
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    embed-resources: true
+
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Introduction
+
+Omnichannel retailing has become an essential strategy for modern businesses because customers expect a seamless shopping experience across the physical stores,websites,mobile application,and social media platforms.Companies need employees who understand e-commerce operations,customer analytics, digital merchandising, and customer experience. As retail industry continues to evolve, careers in omichannel retailing require both business knowledge and technical skills.In this essay,I researched three jobs postings in LinkedIn: E-Commerce Content Marketing Coordinator at HUGO BOSS, Client Insights&Retail Analyst at Prada,and Digital Merchandiser at Redtech. This positions represent different but closely related areas within omnichannel retailing.
+
+## Summary of Job Postings
+
+### Job Posting 1: HUGO BOSS – E-Commerce Content Marketing Coordinator
+
+E-Commerce Content Marketing Coordinator at HUGO BOSS, focuses on managing digital content for the company's websites,mobile application, and loyalty program. The coordinator works closely with marketing,SEO,personalization,and IT teams to maintain product information,update website content,improve the customer journey,and support promotional campaigns.This position also requires experience with tools such as Adobe Experience Manager, Salesforce Commerce Cloud, Google Analytics,Microsoft Excel, and Adobe Photoshop.
+
+### Job Posting 2: Prada – Client Insights&Retail Analyst
+
+Client Insights&Retail Analyst at Prada,is centered on retail analytics and customer insights.The analyst is responsible for monitoring business performance,analyzing sales and customer data,creating dashboards,evaluating CRM campaigns,and supporting business decision-making.This position requires strong analytical skills,advanced Microsoft Excel,experience with BI tools such as Power BI,Tableau,or Looker,and knowledge of CRM systems like Salesforce or Adobe.The company also values communication skills and the ability to present business insights to leadership.
+
+### Job Posting 3: Redtech – Digital Merchandiser
+
+Digital Merchandiser at Redtech,emphasizes digital merchandising strategies that improve e-commerce sales and customer experiences. This position includes optimizing website content,creating personalized shopping experiences,conducting A/B testing,improving SEO,analyzing website performance,and collaborating with marketing,engineering,UX/UI,and creative teams.This position also requires experience with Adobe Analystics,AEM,Adobe Target,Figma,Asana and other digital merchandising tools.
+
+## Skills and Knowledge Required
+
+From a technical perspective,all three positions require knowledge of e-commerce platforms,website management,customer experience,and digital marketing concepts.Data analysis is another common requirement. The Prada position emphasizes business analytics,dashboards,KPIs,CRM analysis,and business intelligence tools.Similarly, the Redtech positions requires analytics to optimize website performance. The HUGO BOSS position also requires Google Analytics to evaluate website performance and improve customer engagement.
+
+The job postings also demonstrate the importance of technical tools. Microsoft Excel appears consistently as a required skill, while Adobe Experience Manager, Salesforce Commerce Cloud, Google Analytics, Power BI, Tableau, Adobe Analytics, and Figma are commonly used platforms. These tools help organizations analyze customer behavior, improve digital merchandising, and support business decisions.
+
+## Connection to This Course and the MSDM Program
+
+IBM6300 provides many of the foundational skills required for these careers. Through the Shopify assignments, I learned how to create and manage an online store, organize products, and understand digital merchandising. Being able to use Shopify is also one of the most basic and practical skills for an E-Commerce Content Marketing Coordinator. These experiences relate directly to the responsibilities of the HUGO BOSS and Redtech positions.
+
+The course also introduces omnichannel retailing concepts, customer journey analysis, and e-commerce strategy, which align closely with the responsibilities described in all three job postings. The CPP Farm Store consulting project further helps students understand how retailers integrate online and offline channels to improve customer experiences.
+
+In addition, the course introduces Google Analytics 4, product catalog management, and digital retail operations. These concepts are directly related to the Prada Retail Analyst position, which focuses on customer insights, business performance, and dashboard reporting. Future MSDM courses in marketing analytics, data visualization, business intelligence, and digital marketing will further strengthen these technical skills and prepare students for professional careers in omnichannel retailing.
+
+## Personal Career Reflection
+
+Among the three positions, I am most interested in the E-Commerce Content Marketing Coordinator role at HUGO BOSS. Compared with the other two positions, this role fits my interests and background the best. During my undergraduate studies, I learned visual design, so I enjoy organizing website layouts, improving visual presentation, and creating content that provides a better shopping experience. I believe my design background would help me contribute to website content management and digital merchandising.
+
+Another reason I am interested in this position is that I chose the MSDM program because I wanted to learn more about e-commerce operations, digital marketing, and website management. Through this course, I gained hands-on experience using Shopify, organizing product catalogs, and understanding how online stores operate. These experiences made me realize that I enjoy working with e-commerce platforms and digital retail.
+
+In the future, I would like to continue improving my knowledge of Shopify, Google Analytics, SEO, and digital merchandising. I also hope to build my own Shopify store and start a small online business to gain practical experience.
+
+## References
+
+1.  LinkedIn Job Posting – HUGO BOSS: E-Commerce Content Marketing Coordinator.
+
+    <https://www.linkedin.com/jobs/view/4383452424>
+
+2.  LinkedIn Job Posting – Prada: Client Insights & Retail Analyst.
+
+    <https://www.linkedin.com/jobs/view/4408017786>
+
+3.  LinkedIn Job Posting – Redtech: Digital Merchandiser.
+
+    <https://www.linkedin.com/jobs/view/4432674544>
+
+## Screenshoot
+
+### Job Posting 1- HUGO BOSS Screenshot
+
+![](hugoboss.png){width="70%"}
+
+### Job Posting 2- Prada Screenshot
+
+![](prada.png){width="70%"}
+
+### Job Posting 3- Redtech Screenshot
+
+![](redtech.png){width="70%"}
